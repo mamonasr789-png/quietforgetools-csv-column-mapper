@@ -99,6 +99,17 @@ Runs entirely on your machine. No network calls, analytics, or phone-home. Your 
 - **Price:** £5 GBP  
 - **Publisher:** [QuietForgeTools](https://quietforgetools.itch.io/)
 
+
+## Also available (related QuietForgeTools CSV products)
+
+Separate purchases — these tools do **not** integrate with Column Mapper automatically:
+
+- [CSV → Excel-Ready](https://quietforgetools.itch.io/csv-excel-ready-offline-encoding-bom-fixer?utm_source=github&utm_campaign=csv-column-mapper) (£5) — offline UTF-8 BOM / encoding fixer for Excel (browser HTML; not schema mapping)
+- [CSV Duplicate Finder](https://quietforgetools.itch.io/csv-duplicate-finder-offline-duplicate-row-detection?utm_source=github&utm_campaign=csv-column-mapper) (£5) — find duplicate rows by one column or a composite key (Python CLI)
+- [CSV Cleanup Toolkit](https://quietforgetools.itch.io/csv-cleanup-toolkit-offline-mapper-duplicate-finder?utm_source=github&utm_campaign=csv-column-mapper) (£8) — Column Mapper + Duplicate Finder in one package (£5 + £5 = £10 if bought separately)
+
+Publisher catalogue: [mamonasr789-png/quietforgetools](https://github.com/mamonasr789-png/quietforgetools)
+
 ## Product page
 
 https://quietforgetools.itch.io/csv-column-mapper-offline-schema-mapping-tool?utm_source=github&utm_campaign=csv-column-mapper
