@@ -1,0 +1,4 @@
+Email,First Name,Last Name,Amount,Currency,Comment
+dana@example.com,Dana,Wright,75.25,GBP,"Needs invoice PDF, not CSV"
+evan@example.com,Evan,Patel,210.00,GBP,
+faye@example.com,Faye,Ñúñez,15.50,GBP,Accented surname OK

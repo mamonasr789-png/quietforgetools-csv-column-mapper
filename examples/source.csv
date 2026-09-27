@@ -1,0 +1,4 @@
+email_address,given_name,family_name,invoice_total,sku_code,comment
+dana@example.com,Dana,Wright,75.25,SKU-100,"Needs invoice PDF, not CSV"
+evan@example.com,Evan,Patel,210.00,SKU-200,
+faye@example.com,Faye,Ñúñez,15.50,SKU-300,Accented surname OK

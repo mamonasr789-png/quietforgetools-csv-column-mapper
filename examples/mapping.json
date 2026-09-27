@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "target_columns": [
+    "Email",
+    "First Name",
+    "Last Name",
+    "Amount",
+    "Currency",
+    "Comment"
+  ],
+  "map": {
+    "Email": "email_address",
+    "First Name": "given_name",
+    "Last Name": "family_name",
+    "Amount": "invoice_total",
+    "Comment": "comment"
+  },
+  "defaults": {
+    "Currency": "GBP"
+  }
+}
